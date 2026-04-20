@@ -1,0 +1,51 @@
+# =========================
+# Build folders
+# =========================
+Debug/
+Release/
+build/
+
+# =========================
+# Eclipse / STM32CubeIDE
+# =========================
+.metadata/
+.settings/
+*.launch
+
+# Archivos internos del workspace
+*.log
+
+# =========================
+# Archivos de configuración locales (opcionales)
+# =========================
+*.ioc.backup
+*.ioc.orig
+
+# =========================
+# Archivos generados automáticamente
+# =========================
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# =========================
+# Archivos temporales
+# =========================
+*~
+*.swp
+*.tmp
+
+# =========================
+# OS (Windows)
+# =========================
+Thumbs.db
+Desktop.ini
+
+# =========================
+# OS (Mac)
+# =========================
+.DS_Store
